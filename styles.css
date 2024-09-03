@@ -1,0 +1,40 @@
+body {
+    color: white;
+    background: pink;
+    margin: 0px;
+    font-family: "Poppins", sans-serif;
+}
+
+header {
+    font-family: "Matemasie", sans-serif;
+    border-bottom: solid 2px rgb(248, 50, 132);
+    padding: 20px;
+    font-size: 30px;
+    color: rgb(248, 50, 132);
+    
+    
+}
+
+section {
+    background: hotpink;
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+
+}
+
+div  {
+    margin-right: 100px;
+    margin-left: 100px;
+}
+
+h1 { 
+    margin-left: 25px;
+}
+
+h2 {
+    font-size: 2em;
+
+}
+
